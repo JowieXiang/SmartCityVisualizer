@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2602ac16f321cf04897480459a27d7e8, type: 3}
+  m_Name: CityGlobalObjectInspector Modifier
+  m_EditorClassIdentifier: 
+  Active: 1
+  Sprites:
+  - {fileID: 21300000, guid: ffd948d07d572c94d809e5a2c99f7607, type: 3}
+  - {fileID: 21300000, guid: d46a58b8b46d39b4880b7340e55145ad, type: 3}
+  - {fileID: 21300000, guid: 9af52f5f8eb32094e8b0b441f1f0d4f4, type: 3}
+  - {fileID: 21300000, guid: d1512e87b8873bd4c80d9e97691346af, type: 3}
+  - {fileID: 21300000, guid: 02823e0cd719c2949999664bf1f84446, type: 3}
+  - {fileID: 21300000, guid: 9d7eb1f40504a6444ad203b8027d0aea, type: 3}

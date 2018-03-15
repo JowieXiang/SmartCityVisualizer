@@ -1,0 +1,1 @@
+This folder contains scripts used to receive UDP messages from other apps or servers and rebuild mesh objects in Unity.

@@ -1,0 +1,2 @@
+C:\Users\Zhang Yuxiang\Documents\SecondSkin\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Zhang Yuxiang\Documents\SmartCityVisualizer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

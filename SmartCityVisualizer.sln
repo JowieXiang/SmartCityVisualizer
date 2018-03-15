@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCityVisualizer", "Assembly-CSharp.csproj", "{CCAAD366-3DA0-34DA-F5F5-38FF978C6F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCityVisualizer", "Assembly-CSharp-Editor.csproj", "{8C6BD4A9-7EB5-0104-23B8-550A36ED9319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAAD366-3DA0-34DA-F5F5-38FF978C6F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAAD366-3DA0-34DA-F5F5-38FF978C6F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAAD366-3DA0-34DA-F5F5-38FF978C6F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAAD366-3DA0-34DA-F5F5-38FF978C6F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6BD4A9-7EB5-0104-23B8-550A36ED9319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6BD4A9-7EB5-0104-23B8-550A36ED9319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6BD4A9-7EB5-0104-23B8-550A36ED9319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6BD4A9-7EB5-0104-23B8-550A36ED9319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+This folder contains custom-made scripts attached to the main camera.

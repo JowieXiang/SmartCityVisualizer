@@ -1,0 +1,1 @@
+This folder stores temporary data and test files.

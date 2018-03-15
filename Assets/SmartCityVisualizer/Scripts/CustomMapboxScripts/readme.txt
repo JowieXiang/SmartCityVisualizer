@@ -1,0 +1,1 @@
+This folder contains custom-made GameObject modifier and related scripts.
